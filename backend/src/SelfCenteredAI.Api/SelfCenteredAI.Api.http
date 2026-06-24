@@ -1,0 +1,6 @@
+@SelfCenteredAI.Api_HostAddress = http://localhost:5148
+
+GET {{SelfCenteredAI.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
